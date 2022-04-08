@@ -1,16 +1,72 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "linc lab",
+    "objectID": "rachel-ryskin.html",
+    "href": "rachel-ryskin.html",
+    "title": "Rachel Ryskin",
     "section": "",
-    "text": "This is a website place holder."
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "rachel-ryskin.html#education",
+    "href": "rachel-ryskin.html#education",
+    "title": "Rachel Ryskin",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sep 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sep 2007 - June 2011"
+  },
+  {
+    "objectID": "rachel-ryskin.html#experience",
+    "href": "rachel-ryskin.html#experience",
+    "title": "Rachel Ryskin",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Language, Interaction, & Cognition Lab",
     "section": "",
-    "text": "About this site"
+    "text": "To get more information about ongoing projects, please visit the research page or check individual lab member’s pages for a full list of their publications. If you would like to participate in the lab’s research or are interested in joining the lab, get in touch via e-mail."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Rachel Ryskin is an Assistant Professor in Cognitive & Information Sciences."
+  },
+  {
+    "objectID": "people.html#graduate-students",
+    "href": "people.html#graduate-students",
+    "title": "People",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n\nRichard Ellks is a MS student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nEllis Cain is a PhD student in Cognitive & Information Sciences."
+  },
+  {
+    "objectID": "people.html#undergraduate-students",
+    "href": "people.html#undergraduate-students",
+    "title": "People",
+    "section": "Undergraduate Students",
+    "text": "Undergraduate Students\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "people.html#lab-alumni",
+    "href": "people.html#lab-alumni",
+    "title": "People",
+    "section": "Lab Alumni",
+    "text": "Lab Alumni"
   }
 ]

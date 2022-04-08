@@ -5,15 +5,21 @@ project:
 website:
   title: "LInC Lab"
   navbar:
-    background: primary
+    background: light
+    logo: "img/icon-512.png"
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - file: index.qmd
+        text: About
+      - file: people.qmd
+        text: People
+      - file: publications.qmd
+        text: Publications
+      - file: contact.qmd
+        text: Contact
 
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
     toc: true
 

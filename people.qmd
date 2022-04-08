@@ -1,0 +1,40 @@
+---
+title: "People"
+format: html
+fig-cap-location: top
+editor: visual
+---
+
+::: {layout-ncol="2"}
+![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
+
+[Rachel Ryskin](rachel-ryskin.qmd) is an Assistant Professor in
+Cognitive & Information Sciences.
+:::
+
+## Graduate Students
+
+::: {layout-ncol="2"}
+![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
+Richard Ellks is a MS student in
+Cognitive & Information Sciences.
+:::
+
+::: {layout-ncol="2"}
+![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
+Ellis Cain is a PhD student in
+Cognitive & Information Sciences.
+:::
+
+
+## Undergraduate Students
+
+When you click the **Render** button a document will be generated that
+includes both content and the output of embedded code. You can embed
+code like this:
+
+```{r}
+1 + 1
+```
+
+## Lab Alumni
