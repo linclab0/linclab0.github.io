@@ -1,7 +1,6 @@
 ---
 title: "People"
 format: html
-fig-cap-location: top
 editor: visual
 ---
 
@@ -16,16 +15,13 @@ Cognitive & Information Sciences.
 
 ::: {layout-ncol="2"}
 ![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
-Richard Ellks is a MS student in
-Cognitive & Information Sciences.
+Richard Ellks is a MS student in Cognitive & Information Sciences.
 :::
 
 ::: {layout-ncol="2"}
 ![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
-Ellis Cain is a PhD student in
-Cognitive & Information Sciences.
+Ellis Cain is a PhD student in Cognitive & Information Sciences.
 :::
-
 
 ## Undergraduate Students
 
