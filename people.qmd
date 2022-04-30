@@ -4,33 +4,51 @@ format: html
 editor: visual
 ---
 
-::: {layout-ncol="2"}
+<div>
+
 ![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
 
 [Rachel Ryskin](rachel-ryskin.qmd) is an Assistant Professor in
 Cognitive & Information Sciences.
-:::
+
+</div>
 
 ## Graduate Students
 
 ::: {layout-ncol="2"}
-![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
+![](img/icon-512.png){style="border-radius: 50%;" width="191"}\
+Polyphony Bruna is a PhD student in Cognitive & Information Sciences.
+:::
+
+::: {layout-ncol="2"}
+![](img/icon-512.png){style="border-radius: 50%;" width="191"}\
 Richard Ellks is a MS student in Cognitive & Information Sciences.
 :::
 
 ::: {layout-ncol="2"}
-![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
+![](img/icon-512.png){style="border-radius: 50%;" width="191"}\
 Ellis Cain is a PhD student in Cognitive & Information Sciences.
 :::
 
-## Undergraduate Students
+::: {layout-ncol="2"}
+![](img/icon-512.png){style="border-radius: 50%;" width="191"}\
+Tevin Williams is a PhD student in Cognitive & Information Sciences.
+:::
 
-When you click the **Render** button a document will be generated that
-includes both content and the output of embedded code. You can embed
-code like this:
+## Undergraduate Research Assistants 
 
-```{r}
-1 + 1
-```
+Nora Chen
+
+Ma Angela Montiel
+
+Jet Brahim
+
+Levi Williams
 
 ## Lab Alumni
+
+### Graduate
+
+Richard Ellks, M.S. (now at )
+
+### Undergraduate

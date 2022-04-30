@@ -2,28 +2,30 @@
 title: "Rachel Ryskin"
 about:
   template: jolla
-  image: img/icon-512.png
+  image: img/avatar.jpg
   links:
+    - icon: link-45deg
+     # text: Github
+      href: http://rachelrysk.in
     - icon: twitter
-      text: twitter
-      href: https://twitter.com
+     # text: twitter
+      href: https://twitter.com/raryskin
     - icon: github
-      text: Github
-      href: https://github.com
+     # text: Github
+      href: https://github.com/raryskin
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
+Rachel Ryskin is an Assistant Professor of Cognitive & Information Sciences at UC Merced. She wants to figure out what cognitive processes and computations enable humans to understand each other. In particular, she studies how learning and context-specific predictions help the human mind and brain deal with the noise and ambiguity present in everyday communication.
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sep 2011 - June 2015
+Massachusetts Institute of Technology <br />
+Postdoc in Brain & Cognitive Sciences| 2016-2020
 
-Macalester College | St. Paul MA
-B.A in Economics | Sep 2007 - June 2011
+University of Illinois, Urbana-Champaign <br />
+PhD in Cognitive Psychology | 2010-2016
 
-## Experience
+Northwestern University <br />
+B.A in Cognitive Science | 2006-2010
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+ 

@@ -1,24 +1,45 @@
 [
   {
+    "objectID": "research.html#section",
+    "href": "research.html#section",
+    "title": "Research",
+    "section": "2022",
+    "text": "2022"
+  },
+  {
+    "objectID": "research.html#section-1",
+    "href": "research.html#section-1",
+    "title": "Research",
+    "section": "2021",
+    "text": "2021"
+  },
+  {
+    "objectID": "research.html#section-2",
+    "href": "research.html#section-2",
+    "title": "Research",
+    "section": "2020",
+    "text": "2020"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "LInC Lab",
+    "section": "",
+    "text": "If you are interested in joining the lab as a graduate or undergraduate student, please reach out to Rachel Ryskin directly.\n\nE-mail\nlinc.lab.ucmerced@gmail.com\n\n\nAddress\nUniversity of California, Merced  SSM 122  5200 Lake Road  Merced, CA 95343"
+  },
+  {
     "objectID": "rachel-ryskin.html",
     "href": "rachel-ryskin.html",
     "title": "Rachel Ryskin",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "Rachel Ryskin is an Assistant Professor of Cognitive & Information Sciences at UC Merced. She wants to figure out what cognitive processes and computations enable humans to understand each other. In particular, she studies how learning and context-specific predictions help the human mind and brain deal with the noise and ambiguity present in everyday communication."
   },
   {
     "objectID": "rachel-ryskin.html#education",
     "href": "rachel-ryskin.html#education",
     "title": "Rachel Ryskin",
     "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sep 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sep 2007 - June 2011"
-  },
-  {
-    "objectID": "rachel-ryskin.html#experience",
-    "href": "rachel-ryskin.html#experience",
-    "title": "Rachel Ryskin",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Education\nMassachusetts Institute of Technology  Postdoc in Brain & Cognitive Sciences| 2016-2020\nUniversity of Illinois, Urbana-Champaign  PhD in Cognitive Psychology | 2010-2016\nNorthwestern University  B.A in Cognitive Science | 2006-2010"
   },
   {
     "objectID": "index.html",
@@ -26,20 +47,6 @@
     "title": "Language, Interaction, & Cognition Lab",
     "section": "",
     "text": "To get more information about ongoing projects, please visit the research page or check individual lab member’s pages for a full list of their publications. If you would like to participate in the lab’s research or are interested in joining the lab, get in touch via e-mail."
-  },
-  {
-    "objectID": "publications.html#section",
-    "href": "publications.html#section",
-    "title": "Publications",
-    "section": "2022",
-    "text": "2022"
-  },
-  {
-    "objectID": "publications.html#section-1",
-    "href": "publications.html#section-1",
-    "title": "Publications",
-    "section": "2021",
-    "text": "2021"
   },
   {
     "objectID": "people.html",
@@ -53,20 +60,20 @@
     "href": "people.html#graduate-students",
     "title": "People",
     "section": "Graduate Students",
-    "text": "Graduate Students\n\n\n\n\nRichard Ellks is a MS student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nEllis Cain is a PhD student in Cognitive & Information Sciences."
+    "text": "Graduate Students\n\n\n\n\nPolyphony Bruna is a PhD student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nRichard Ellks is a MS student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nEllis Cain is a PhD student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nTevin Williams is a PhD student in Cognitive & Information Sciences."
   },
   {
-    "objectID": "people.html#undergraduate-students",
-    "href": "people.html#undergraduate-students",
+    "objectID": "people.html#undergraduate-research-assistants",
+    "href": "people.html#undergraduate-research-assistants",
     "title": "People",
-    "section": "Undergraduate Students",
-    "text": "Undergraduate Students\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2"
+    "section": "Undergraduate Research Assistants",
+    "text": "Undergraduate Research Assistants\nNora Chen\nMa Angela Montiel\nJet Brahim\nLevi Williams"
   },
   {
     "objectID": "people.html#lab-alumni",
     "href": "people.html#lab-alumni",
     "title": "People",
     "section": "Lab Alumni",
-    "text": "Lab Alumni"
+    "text": "Lab Alumni\n\nGraduate\nRichard Ellks, M.S. (now at )\n\n\nUndergraduate"
   }
 ]
