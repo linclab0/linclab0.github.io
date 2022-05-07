@@ -1,14 +1,22 @@
 ---
 title: "Research"
-
+bibliography: pubs.bib
 ---
-
-## In Press / Preprints
 
 
 ## 2022
 
+- new stuff i will def publish
+
 ## 2021
+
+- Ryskin & Fang
+
+- NPSY
+
+- Psychonomics
 
 ## 2020
 
+- SNL
+- CUNY

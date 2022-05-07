@@ -1,5 +1,6 @@
 ---
 title: "Language, Interaction, & Cognition Lab"
+subtitle: "Department of Cognitive & Information Sciences | UC Merced"
 about:
   template: jolla
   image: img/icon-512.png
@@ -12,4 +13,4 @@ about:
 
 Language endows us with the ability to communicate the contents of our mind with another person. But how do we decode another person’s thoughts and intentions from a sequence of sounds (speech) or shapes (letters, signs)? This challenge seems compounded by the fact that transmission of this sequence is often imperfect – speakers and listeners make errors, don’t have the same prior knowledge, and sometimes even see different things. Yet, communication with another person typically feels effortless. In the Language, Interaction, & Cognition (LInC) Lab, we take a cognitive (neuro)science approach to understanding how the human language processing system extracts meaning from uncertain and variable input. In particular, we investigate how learning and memory mechanisms ground language understanding in the speaker and listener’s visuo-spatial and temporal contexts.
 
-To get more information about ongoing projects, please visit the research page or check individual lab member’s pages for a full list of their publications. If you would like to participate in the lab’s research or are interested in joining the lab, get in touch via e-mail.
+To get more information about ongoing projects, please visit the [research](research.qmd) page or check individual [lab members’](people.qmd) pages for a full list of their publications. If you would like to participate in the lab’s research or are interested in joining the lab, get in touch via [e-mail](contact.qmd).
