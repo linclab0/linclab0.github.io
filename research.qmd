@@ -4,19 +4,58 @@ bibliography: pubs.bib
 ---
 
 
+
 ## 2022
 
-- new stuff i will def publish
+- [**Quantifying cross-situational statistics during parent-child toy play**](https://escholarship.org/content/qt7w66j9bd/qt7w66j9bd.pdf). <br /> Cain, E., Ryskin, R., & Yu, C. _Proceedings of the 43rd Annual Meeting of the Cognitive Science Society_.
+
+ - [**A Lexico-Syntactic Trade-off in Language Production: Evidence from Primary Progressive Aphasia**](https://doi.org/10.1073/pnas.2120203119). <br /> Rezaii, N., Mahowald, K, Ryskin, R., Dickerson, B. & Gibson, E. _Proceedings of the National Academy of Sciences_.
+
+- **What paradigms can webcam eye-tracking be used for? Attempted replications of 5 “classic” cognitive science experiments**. <br />James, A., Ryskin, R.,..., deLeeuw, J. (2022).Talk presented as part of the symposium on 'Automated gaze-tracking and gaze-annotation for online studies of cognition and development' _Cognitive Development Society Conference_.
+
+- **Effects of the structural prior on noisy-channel inference: evidence from Russian**. Poliak, M., Ryskin, R., Braginsky, M. & Gibson, E. (2022). <br /> Poster at _Human Sentence Processing (HSP) Conference_.
 
 ## 2021
 
-- Ryskin & Fang
+ - [**The Many Timescales of Context in Language Processing**](pdfs/'Ryskin and Fang - 2021 - The many timescales of context in language process.pdf'). <br /> Ryskin, R., & Fang, X.  Chapter in _Psychology of Learning and Motivation_. 
 
-- NPSY
+ - [**A verb-frame frequency account of constraints on long-distance dependencies in English**](https://doi.org/10.1016/j.cognition.2021.104902).<br />
+ Liu, Y., Ryskin, R., Futrell, R., & Gibson, E. _Cognition_.
 
-- Psychonomics
+ - [**An ERP index of real-time error correction within a noisy-channel framework of human communication**](https://doi.org/10.1016/j.neuropsychologia.2021.107855). <br />
+Ryskin\*, R., Stearns\*, L., Bergen, L., Eddy, M., Fedorenko, E., & Gibson, E. _Neuropsychologia_. [[UC Open Access](https://escholarship.org/uc/item/8f72t5x7)] 
+
+- [**Linguistic prediction across the lifespan**](pdfs/Pnomics2021_pred_age.pdf). </br> Ryskin, R. \& Nicolette-Sanchez, V. Poster presented at the _Annual Meeting of the Psychonomic Society_.
+
+- **How People Talk Affects the Implicatures That Others Make**. </br> Zhang, Z., Bergen, L., Ryskin, R., Paunov, A. \& Gibson, E. Poster presented at _Architectures and Mechanisms of Language Processing (AMLaP)_.
+
+- **A Noisy-channel Explanation for Depth-charge Illusions**. </br>
+Zhang, Y., Ryskin, R. & Gibson, E. Talk presented at _Architectures and Mechanisms of Language Processing (AMLaP)_.
+
+- **Talker-specific and talker-general learning in speech comprehension**. </br> Fang, X. & Ryskin, R. Poster presented at the _California Meetup on Psycholinguistics_.
+
+- **Syntactic Rule Frequency as a Measure of Syntactic Complexity: Insights from Primary Progressive Aphasia**. </br> Rezaii, N., Mahowald, K., Ryskin, R., Dickerson, B. & Gibson, E.  Short talk presented at the _CUNY Conference on Human Sentence Processing_.
+
+- **English locative inversions are not special in terms of their discourse function**. Ricciardi, G., Ryskin, R., & Gibson, E.  Short talk presented at _CUNY Conference on Human Sentence Processing_.
+
+- **The role of construction frequency in listeners’ noisy-channel inferences**. </br> Liu, Y., Ryskin, R., Futrell, R., & Gibson, E. Talk presented at _45th Penn Linguistic Conference_.
 
 ## 2020
 
-- SNL
-- CUNY
+ - [**Probabilistic weighting of perspectives in dyadic communication**](https://cognitivesciencesociety.org/cogsci20/papers/0050/index.html). </br> Ryskin, R., Stevenson, S., & Heller, D. _Proceedings of the 42nd Annual Meeting of the Cognitive Science Society_.
+
+ - [**Do domain-general executive resources play a role in linguistic prediction? Re-evaluation of the evidence and a path forward**](https://doi.org/10.1016/j.neuropsychologia.2019.107258). </br> Ryskin, R., Levy, R. P., & Fedorenko, E. _Neuropsychologia_.
+
+
+- [**Individual-subject functional localization does not benefit ERP analyses**](pdfs/SNL2020poster_ERPfuncLoc.pdf). </br> Ryskin, R., & Fedorenko, E. Poster at _Society for the Neurobiology of Language_.
+
+- **Neural representation of syntactic prediction: A simultaneous eye-tracking and EEG study**.  Weng, Y., Ryskin, R., & Qi, Z. Poster at _Society for the Neurobiology of Language_.
+
+- **Probabilistic weighting of perspectives in dyadic communication**. Ryskin, R., Stevenson, S., & Heller, D. Poster at _Cognitive Modeling and Computational Linguistics (CMCL) workshop_. 
+
+- **The role of construction frequency in listeners’ noisy-channel inferences**. Liu, Y., Ryskin, R., Futrell, R., & Gibson, E. Poster at _Architectures and Mechanisms of Language Processing (AMLaP)_.
+
+- **Assessing the inferential strength of epistemic 'must'**. Ricciardi, G. Ryskin, R., & Gibson, E. Talk presented at _Experiments in Linguistic Meaning (ELM)_.
+
+
+

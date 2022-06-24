@@ -8,47 +8,52 @@ editor: visual
 
 ![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
 
-[Rachel Ryskin](rachel-ryskin.qmd) is an Assistant Professor in
+[Rachel Ryskin](http://rachelrysk.in) is an Assistant Professor in
 Cognitive & Information Sciences.
 
 </div>
 
 ## Graduate Students
 
+<!-- ::: {layout-ncol="2"} -->
+<!-- ![](img/icon-512.png){style="border-radius: 50%;" width="191"}\ -->
+<!-- Polyphony Bruna is a PhD student in Cognitive & Information Sciences. -->
+<!-- ::: -->
+
 ::: {layout-ncol="2"}
-![](img/icon-512.png){style="border-radius: 50%;" width="191"}\
-Polyphony Bruna is a PhD student in Cognitive & Information Sciences.
+![](img/avatar_cain.jpeg){style="border-radius: 50%;" width="191"}\
+[Ellis Cain](https://ellisc.dev/) is a PhD student in Cognitive & Information Sciences.
 :::
 
 ::: {layout-ncol="2"}
-![](img/icon-512.png){style="border-radius: 50%;" width="191"}\
+![](img/avatar_ellks.jpeg){style="border-radius: 50%;" width="191"}\
 Richard Ellks is a MS student in Cognitive & Information Sciences.
 :::
 
-::: {layout-ncol="2"}
-![](img/icon-512.png){style="border-radius: 50%;" width="191"}\
-Ellis Cain is a PhD student in Cognitive & Information Sciences.
-:::
 
 ::: {layout-ncol="2"}
-![](img/icon-512.png){style="border-radius: 50%;" width="191"}\
+![](img/avatar_williams.jpeg){style="border-radius: 50%;" width="191"}\
 Tevin Williams is a PhD student in Cognitive & Information Sciences.
 :::
 
 ## Undergraduate Research Assistants 
 
-Nora Chen
-
 Ma Angela Montiel
 
-Jet Brahim
+Nora Chen
 
-Levi Williams
+Jet Mejia-Bohol
+
 
 ## Lab Alumni
 
 ### Graduate
 
-Richard Ellks, M.S. (now at )
+<!-- Richard Ellks, M.S. (now at ) -->
+Xinzhu Fang
 
 ### Undergraduate
+
+Vera Nicolette-Sanchez
+
+Levi Williams
