@@ -17,7 +17,7 @@ bibliography: pubs.bib
 
 ## 2021
 
- - [**The Many Timescales of Context in Language Processing**](pdfs/'Ryskin and Fang - 2021 - The many timescales of context in language process.pdf'). <br /> Ryskin, R., & Fang, X.  Chapter in _Psychology of Learning and Motivation_. 
+ - [**The Many Timescales of Context in Language Processing**](pdfs/Ryskin and Fang - 2021 - The many timescales of context in language process.pdf). <br /> Ryskin, R., & Fang, X.  Chapter in _Psychology of Learning and Motivation_. 
 
  - [**A verb-frame frequency account of constraints on long-distance dependencies in English**](https://doi.org/10.1016/j.cognition.2021.104902).<br />
  Liu, Y., Ryskin, R., Futrell, R., & Gibson, E. _Cognition_.
