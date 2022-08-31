@@ -17,34 +17,31 @@ Cognitive & Information Sciences.
 
 ::: {layout-ncol="2"}
 ![](img/Bruna_profile.jpg){style="border-radius: 50%;" width="191"}\
-[Polyphony Bruna](https://www.linkedin.com/in/polyphonyjbruna/) is a PhD student in Cognitive & Information Sciences.
+[Polyphony Bruna](https://www.linkedin.com/in/polyphonyjbruna/) is a PhD
+student in Cognitive & Information Sciences.
 :::
 
 ::: {layout-ncol="2"}
 ![](img/avatar_cain.jpeg){style="border-radius: 50%;" width="191"}\
-[Ellis Cain](https://ellisc.dev/) is a PhD student in Cognitive & Information Sciences.
+[Ellis Cain](https://ellisc.dev/) is a PhD student in Cognitive &
+Information Sciences.
 :::
 
 ::: {layout-ncol="2"}
 ![](img/avatar_liu.jpg){style="border-radius: 50%;" width="191"}\
-
 Joyce Liu is a MS student in Cognitive & Information Sciences.
-
-
 :::
-
 
 ::: {layout-ncol="2"}
 ![](img/avatar_williams.jpeg){style="border-radius: 50%;" width="191"}\
 Tevin Williams is a PhD student in Cognitive & Information Sciences.
 :::
 
-## Undergraduate Research Assistants 
+## Undergraduate Research Assistants
 
 Ma Angela Montiel
 
 Jet Mejia-Bohol
-
 
 ## Lab Alumni
 
