@@ -15,10 +15,10 @@ Cognitive & Information Sciences.
 
 ## Graduate Students
 
-<!-- ::: {layout-ncol="2"} -->
-<!-- ![](img/icon-512.png){style="border-radius: 50%;" width="191"}\ -->
-<!-- Polyphony Bruna is a PhD student in Cognitive & Information Sciences. -->
-<!-- ::: -->
+::: {layout-ncol="2"}
+![](img/Bruna_profile.jpg){style="border-radius: 50%;" width="191"}\
+[Polyphony Bruna](https://www.linkedin.com/in/polyphonyjbruna/) is a PhD student in Cognitive & Information Sciences.
+:::
 
 ::: {layout-ncol="2"}
 ![](img/avatar_cain.jpeg){style="border-radius: 50%;" width="191"}\
@@ -26,8 +26,11 @@ Cognitive & Information Sciences.
 :::
 
 ::: {layout-ncol="2"}
-![](img/avatar_ellks.jpeg){style="border-radius: 50%;" width="191"}\
-Richard Ellks is a MS student in Cognitive & Information Sciences.
+![](img/avatar_liu.jpg){style="border-radius: 50%;" width="191"}\
+
+Joyce Liu is a MS student in Cognitive & Information Sciences.
+
+
 :::
 
 
@@ -40,8 +43,6 @@ Tevin Williams is a PhD student in Cognitive & Information Sciences.
 
 Ma Angela Montiel
 
-Nora Chen
-
 Jet Mejia-Bohol
 
 
@@ -49,10 +50,13 @@ Jet Mejia-Bohol
 
 ### Graduate
 
-<!-- Richard Ellks, M.S. (now at ) -->
+Richard Ellks, M.S. 2022
+
 Xinzhu Fang
 
 ### Undergraduate
+
+Nora Chen
 
 Vera Nicolette-Sanchez
 
