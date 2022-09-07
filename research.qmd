@@ -7,13 +7,15 @@ bibliography: pubs.bib
 
 ## 2022
 
+- [**The Effects of Diachronic Language Change on Semantic Organization Across the Lifespan**](https://virtual.oxfordabstracts.com/#/event/3067/submission/166). <br /> Cain, E., & Ryskin, R. Poster at _Architectures and Mechanisms of Language Processing_.
+
 - [**Quantifying cross-situational statistics during parent-child toy play**](https://escholarship.org/content/qt7w66j9bd/qt7w66j9bd.pdf). <br /> Cain, E., Ryskin, R., & Yu, C. _Proceedings of the 43rd Annual Meeting of the Cognitive Science Society_.
 
  - [**A Lexico-Syntactic Trade-off in Language Production: Evidence from Primary Progressive Aphasia**](https://doi.org/10.1073/pnas.2120203119). <br /> Rezaii, N., Mahowald, K, Ryskin, R., Dickerson, B. & Gibson, E. _Proceedings of the National Academy of Sciences_.
 
 - **What paradigms can webcam eye-tracking be used for? Attempted replications of 5 “classic” cognitive science experiments**. <br />James, A., Ryskin, R.,..., deLeeuw, J. (2022).Talk presented as part of the symposium on 'Automated gaze-tracking and gaze-annotation for online studies of cognition and development' _Cognitive Development Society Conference_.
 
-- **Effects of the structural prior on noisy-channel inference: evidence from Russian**. Poliak, M., Ryskin, R., Braginsky, M. & Gibson, E. (2022). <br /> Poster at _Human Sentence Processing (HSP) Conference_.
+- **Effects of the structural prior on noisy-channel inference: evidence from Russian**.  <br /> Poliak, M., Ryskin, R., Braginsky, M. & Gibson, E. (2022). Poster at _Human Sentence Processing (HSP) Conference_.
 
 ## 2021
 
