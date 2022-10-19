@@ -4,6 +4,7 @@ format: html
 editor: visual
 ---
 
+
 <div>
 
 ![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
@@ -28,6 +29,11 @@ Information Sciences.
 :::
 
 ::: {layout-ncol="2"}
+![](img/gokcen.jpg){style="border-radius: 50%;" width="191"}\
+Yasemin Gokcen is a PhD student in Cognitive & Information Sciences.
+:::
+
+::: {layout-ncol="2"}
 ![](img/avatar_liu.jpg){style="border-radius: 50%;" width="191"}\
 Joyce Liu is a MS student in Cognitive & Information Sciences.
 :::
@@ -41,7 +47,9 @@ Tevin Williams is a PhD student in Cognitive & Information Sciences.
 
 Ma Angela Montiel
 
-Jet Mejia-Bohol
+Eduardo Santiago
+
+Renisha Singh
 
 ## Lab Alumni
 
@@ -58,3 +66,12 @@ Nora Chen
 Vera Nicolette-Sanchez
 
 Levi Williams
+
+Jet Mejia-Bohol
+
+## Fun!
+
+Joint LInC/Marghetis Lab Pizza lunch (Fall 2021)
+
+![](img/fall2021_pizza.jpg)
+![](img/fall2021_pizza2.jpg)

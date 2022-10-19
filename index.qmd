@@ -18,11 +18,9 @@ this sequence is often imperfect -- speakers and listeners make errors,
 don't have the same prior knowledge, and sometimes even see different
 things. Yet, communication with another person typically feels
 effortless. In the Language, Interaction, & Cognition (LInC) Lab, we
-take a cognitive (neuro)science approach to understanding how the human
+take a cognitive science approach to understanding how the human
 language processing system extracts meaning from uncertain and variable
-input. In particular, we investigate how learning and memory mechanisms
-ground language understanding in the speaker and listener's
-visuo-spatial and temporal contexts.
+input. 
 
 To get more information about ongoing projects, please visit the
 [research](research.qmd) page or check individual [lab
