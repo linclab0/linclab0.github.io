@@ -1,13 +1,9 @@
 ---
 title: "Language, Interaction, & Cognition Lab"
-subtitle: "Department of Cognitive & Information Sciences | UC Merced"
+subtitle: "Department of Cognitive & Information Sciences @ UC Merced"
 about:
-  template: jolla
+  template: trestles
   image: img/icon-512.png
-  links:
-    - icon: github
-     # text: Github
-      href: https://github.com/linclab0
 ---
 
 Language endows us with the ability to communicate the contents of our

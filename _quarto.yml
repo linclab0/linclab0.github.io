@@ -1,10 +1,10 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "LInC Lab"
-  page-footer: "Copyright 2022. Rachel Ryskin" 
+  page-footer: "Copyright 2022. Rachel Ryskin"
   navbar:
     background: light
     logo: "img/icon-512.png"
@@ -20,10 +20,9 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme:
+      - litera
+      - custom.scss
     css: styles.css
     toc: true
-    mainfont: sans-serif
-
-
-
+    mainfont: sans-serif;
