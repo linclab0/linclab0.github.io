@@ -4,7 +4,6 @@ format: html
 editor: visual
 ---
 
-
 <div>
 
 ![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
@@ -45,6 +44,10 @@ Tevin Williams is a PhD student in Cognitive & Information Sciences.
 
 ## Undergraduate Research Assistants
 
+Isaac Corona
+
+Jacob Lawson
+
 Ma Angela Montiel
 
 Eduardo Santiago
@@ -73,5 +76,4 @@ Jet Mejia-Bohol
 
 Joint LInC/Marghetis Lab Pizza lunch (Fall 2021)
 
-![](img/fall2021_pizza.jpg)
-![](img/fall2021_pizza2.jpg)
+![](img/fall2021_pizza.jpg) ![](img/fall2021_pizza2.jpg)

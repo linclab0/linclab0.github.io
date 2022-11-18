@@ -7,6 +7,8 @@ bibliography: pubs.bib
 
 ## 2022
 
+- [**Agrammatic output in non-fluent/Broca’s aphasia as a rational behavior**](https://doi.org/10.1080/02687038.2022.2143233). <br /> Fedorenko, E., Ryskin, R., Gibson, E. _Aphasiology_
+
 - [**The Effects of Diachronic Language Change on Semantic Organization Across the Lifespan**](https://virtual.oxfordabstracts.com/#/event/3067/submission/166). <br /> Cain, E., & Ryskin, R. Poster at _Architectures and Mechanisms of Language Processing_.
 
 - [**Quantifying cross-situational statistics during parent-child toy play**](https://escholarship.org/content/qt7w66j9bd/qt7w66j9bd.pdf). <br /> Cain, E., Ryskin, R., & Yu, C. _Proceedings of the 43rd Annual Meeting of the Cognitive Science Society_.
