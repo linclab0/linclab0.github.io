@@ -7,6 +7,9 @@ bibliography: pubs.bib
 
 ## 2022
 
+- [**A Noisy-Channel Approach to Depth-Charge Illusions**](https://doi.org/10.1016/j.cognition.2022.105346). <br/>
+Zhang, Y., Ryskin, R., & Gibson, E. _Cognition_. [[Preprint](https://ssrn.com/abstract=4130042)]
+
 - [**Agrammatic output in non-fluent/Broca’s aphasia as a rational behavior**](https://doi.org/10.1080/02687038.2022.2143233). <br /> Fedorenko, E., Ryskin, R., Gibson, E. _Aphasiology_
 
 - [**The Effects of Diachronic Language Change on Semantic Organization Across the Lifespan**](https://virtual.oxfordabstracts.com/#/event/3067/submission/166). <br /> Cain, E., & Ryskin, R. Poster at _Architectures and Mechanisms of Language Processing_.
