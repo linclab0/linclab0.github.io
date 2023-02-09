@@ -3,12 +3,16 @@ title: "Research"
 bibliography: pubs.bib
 ---
 
+## 2023
 
-
-## 2022
+- [**Scalar Implicature is Sensitive to Contextual Alternatives**](https://doi.org/10.1111/cogs.13238). <br/>
+Zhang, Z., Bergen, L., Paunov, A., Ryskin, R., & Gibson, E. _Cognitive Science_. 
 
 - [**A Noisy-Channel Approach to Depth-Charge Illusions**](https://doi.org/10.1016/j.cognition.2022.105346). <br/>
 Zhang, Y., Ryskin, R., & Gibson, E. _Cognition_. [[Preprint](https://ssrn.com/abstract=4130042)]
+
+## 2022
+
 
 - [**Agrammatic output in non-fluent/Broca’s aphasia as a rational behavior**](https://doi.org/10.1080/02687038.2022.2143233). <br /> Fedorenko, E., Ryskin, R., Gibson, E. _Aphasiology_
 
