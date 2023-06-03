@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Language, Interaction, & Cognition Lab",
     "section": "",
-    "text": "To get more information about ongoing projects, please visit the research page or check individual lab members’ pages for a full list of their publications. If you would like to participate in the lab’s research or are interested in joining the lab, get in touch via e-mail."
+    "text": "Language endows us with the ability to communicate the contents of our mind with another person. But how do we decode another person’s thoughts and intentions from a sequence of sounds (speech) or shapes (letters, signs)? This challenge seems compounded by the fact that transmission of this sequence is often imperfect – speakers and listeners make errors, don’t have the same prior knowledge, and sometimes even see different things. Yet, communication with another person typically feels effortless. In the Language, Interaction, & Cognition (LInC) Lab, we take a cognitive science approach to understanding how the human language processing system extracts meaning from uncertain and variable input.\nTo get more information about ongoing projects, please visit the research page or check individual lab members’ pages for a full list of their publications. If you would like to participate in the lab’s research or are interested in joining the lab, get in touch via e-mail."
   },
   {
     "objectID": "people.html",
@@ -60,14 +60,14 @@
     "href": "people.html#graduate-students",
     "title": "People",
     "section": "Graduate Students",
-    "text": "Graduate Students\n\n\n\n\nPolyphony Bruna is a PhD student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nEllis Cain is a PhD student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nYasemin Gokcen is a PhD student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nJoyce Liu is a MS student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nTevin Williams is a PhD student in Cognitive & Information Sciences."
+    "text": "Graduate Students\n\n\n\n\nEllis Cain is a PhD student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nYasemin Gokcen is a PhD student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nJoyce Liu is a MS student in Cognitive & Information Sciences.\n\n\n\n\n\n\n\nTevin Williams is a PhD student in Cognitive & Information Sciences."
   },
   {
     "objectID": "people.html#undergraduate-research-assistants",
     "href": "people.html#undergraduate-research-assistants",
     "title": "People",
     "section": "Undergraduate Research Assistants",
-    "text": "Undergraduate Research Assistants\nIsaac Corona\nJacob Lawson\nMa Angela Montiel\nEduardo Santiago\nRenisha Singh"
+    "text": "Undergraduate Research Assistants\nIsaac Corona\nTina Fathollahi\nMa Angela Montiel\nEduardo Santiago\nRenisha Singh\nLevi Williams"
   },
   {
     "objectID": "people.html#lab-alumni",
@@ -103,5 +103,12 @@
     "title": "Research",
     "section": "2020",
     "text": "2020\n\nProbabilistic weighting of perspectives in dyadic communication.  Ryskin, R., Stevenson, S., & Heller, D. Proceedings of the 42nd Annual Meeting of the Cognitive Science Society.\nDo domain-general executive resources play a role in linguistic prediction? Re-evaluation of the evidence and a path forward.  Ryskin, R., Levy, R. P., & Fedorenko, E. Neuropsychologia.\nIndividual-subject functional localization does not benefit ERP analyses.  Ryskin, R., & Fedorenko, E. Poster at Society for the Neurobiology of Language.\nNeural representation of syntactic prediction: A simultaneous eye-tracking and EEG study. Weng, Y., Ryskin, R., & Qi, Z. Poster at Society for the Neurobiology of Language.\nProbabilistic weighting of perspectives in dyadic communication. Ryskin, R., Stevenson, S., & Heller, D. Poster at Cognitive Modeling and Computational Linguistics (CMCL) workshop.\nThe role of construction frequency in listeners’ noisy-channel inferences. Liu, Y., Ryskin, R., Futrell, R., & Gibson, E. Poster at Architectures and Mechanisms of Language Processing (AMLaP).\nAssessing the inferential strength of epistemic ‘must’. Ricciardi, G. Ryskin, R., & Gibson, E. Talk presented at Experiments in Linguistic Meaning (ELM)."
+  },
+  {
+    "objectID": "people.html#former-lab-members",
+    "href": "people.html#former-lab-members",
+    "title": "People",
+    "section": "Former Lab Members",
+    "text": "Former Lab Members\n\nGraduate\nPolyphony Bruna\nRichard Ellks, M.S. 2022\nXinzhu Fang\n\n\nUndergraduate\nNora Chen\nVera Nicolette-Sanchez\nJet Mejia-Bohol\nJacob Lawson"
   }
 ]
