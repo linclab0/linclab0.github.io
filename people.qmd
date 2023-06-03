@@ -40,7 +40,7 @@ Tevin Williams is a PhD student in Cognitive & Information Sciences.
 
 ::: {layout-ncol="2"}
 ![](img/ortega.jpg){style="border-radius: 50%;" width="191"}\
-Alyssa Ortega is the current lab manager.
+[Alyssa Ortega](https://www.linkedin.com/in/avortega) is the current lab manager.
 :::
 
 ## Undergraduate Research Assistants
