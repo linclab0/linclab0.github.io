@@ -5,6 +5,10 @@ bibliography: pubs.bib
 
 ## 2023
 
+- [**It’s Not What You Say but How You Say It: Evidence from Russian Shows Robust Effects of the Structural Prior on Noisy Channel Inferences.**](https://doi.org/10.1037/xlm0001244) <br/>
+Poliak, M., Ryskin, R., Braginsky, M., \& Gibson, E.
+_Journal of Experimental Psychology: Learning, Memory, \& Cognition_.
+
 - [**Real-time inference in communication across cultures: Evidence from a nonindustrialized society**](https://doi.org/10.1037/xge0001345). <br/>
 Ryskin, R., Salinas, M., Piantadosi, S. & Gibson, E. _Journal of Experimental Psychology: General_. [[Preprint](https://psyarxiv.com/ga83j)]
 
