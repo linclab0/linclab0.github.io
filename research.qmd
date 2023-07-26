@@ -5,6 +5,14 @@ bibliography: pubs.bib
 
 ## 2023
 
+- [**Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan**](https://escholarship.org/uc/item/943334rm) <br/> 
+Cain, E. & Ryskin, R. 
+_Proceedings of the Annual Meeting of the Cognitive Science Society_
+
+- [**The effect of context on noisy-channel sentence comprehension**](https://doi.org/10.1016/j.cognition.2023.105503). <br/>
+Chen, S., Nathaniel, S., Ryskin, R., & Gibson, E. 
+_Cognition_
+
 - [**It’s Not What You Say but How You Say It: Evidence from Russian Shows Robust Effects of the Structural Prior on Noisy Channel Inferences.**](https://doi.org/10.1037/xlm0001244) <br/>
 Poliak, M., Ryskin, R., Braginsky, M., \& Gibson, E.
 _Journal of Experimental Psychology: Learning, Memory, \& Cognition_.
