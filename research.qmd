@@ -5,6 +5,9 @@ bibliography: pubs.bib
 
 ## 2023
 
+- [**Prediction during language comprehension: what is next?**](https://doi.org/10.1016/j.tics.2023.08.003)<br/>Ryskin, R. & Nieuwland, M. 
+_Trends in Cognitive Sciences_ 
+
 - [**Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan**](https://escholarship.org/uc/item/943334rm) <br/> 
 Cain, E. & Ryskin, R. 
 _Proceedings of the Annual Meeting of the Cognitive Science Society_
