@@ -2,6 +2,32 @@
 
 ## Lab Manager/Research Technician
 
+The Language, Interaction, & Cognition (LInC) Lab at University of California, Merced (PI: Rachel Ryskin) invites applications for a full-time Lab Assistant position to begin in Summer or Fall 2024 (start date flexible). We are looking for applicants interested in studying cognition and language using behavioral, neuroscientific, and computational methods. Please see https://linclab0.github.io/ for more on our work.
+
+The position is for one year with a possibility of renewal. The ideal candidate will be interested in ultimately pursuing graduate study in cognitive science, psychology, linguistics, neuroscience, data science, or a related field. The successful candidate will have primary or shared responsibility for various aspects of research and laboratory management, including: creating experimental stimuli; coding/transcribing data; designing experiments; programming experiments; collecting data from various participant populations; pre-processing and analyzing data; helping manage the lab's computers and server; and assisting undergraduate and graduate researchers. The successful candidate will work closely with Dr. Ryskin and with other research assistants and graduate students in the lab. The position is an excellent opportunity to gain multidisciplinary research experience.
+
+The following qualifications are essential:
+
+Bachelor’s degree or equivalent in cognitive science, psychology, data science, computer science, linguistics, neuroscience, statistics, mathematics, engineering or related field
+Excellent organizational skills and a high level of attention to detail
+Excellent interpersonal communication skills and experience working on a team
+Strong programming, statistical, and/or web development skills (e.g. Python, R, Javascript, Matlab, etc.)
+Prior research experience and knowledge of research principles in cognitive science, psychology, neuroscience, or related field
+
+The following qualifications are desirable but not required:
+
+Prior experience with data science methods (e.g., web scraping, data cleaning and manipulation, machine learning, and natural language processing)
+Prior experience with analysis of behavioral and/or neural data
+
+To apply for the position, please complete the application below.
+
+Submissions will be reviewed on a rolling basis and continue until the position is filled. We will begin reviewing applications on June 1st, 2024.
+
+
+If you have any questions about the position or the application process, please send an email to [linc.lab.ucmerced@gmail.com](mailto:linc.lab.ucmerced@gmail.com).
+
+### Application
+
 Please send your CV and answers to the below questions to [linc.lab.ucmerced@gmail.com](mailto:linc.lab.ucmerced@gmail.com). Please send these in the format “Lastname_CV.pdf” and “Lastname_application.pdf” in an email with the subject line, “Lastname Lab Manager Position 2024”.
 
 1. Please provide the following information:
