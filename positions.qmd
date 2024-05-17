@@ -8,16 +8,16 @@ The position is for one year with a possibility of renewal. The ideal candidate 
 
 The following qualifications are essential:
 
-Bachelor’s degree or equivalent in cognitive science, psychology, data science, computer science, linguistics, neuroscience, statistics, mathematics, engineering or related field
-Excellent organizational skills and a high level of attention to detail
-Excellent interpersonal communication skills and experience working on a team
-Strong programming, statistical, and/or web development skills (e.g. Python, R, Javascript, Matlab, etc.)
-Prior research experience and knowledge of research principles in cognitive science, psychology, neuroscience, or related field
+- Bachelor’s degree or equivalent in cognitive science, psychology, data science, computer science, linguistics, neuroscience, statistics, mathematics, engineering or related field
+- Excellent organizational skills and a high level of attention to detail
+- Excellent interpersonal communication skills and experience working on a team
+- Strong programming, statistical, and/or web development skills (e.g. Python, R, Javascript, Matlab, etc.)
+- Prior research experience and knowledge of research principles in cognitive science, psychology, neuroscience, or related field
 
 The following qualifications are desirable but not required:
 
-Prior experience with data science methods (e.g., web scraping, data cleaning and manipulation, machine learning, and natural language processing)
-Prior experience with analysis of behavioral and/or neural data
+- Prior experience with data science methods (e.g., web scraping, data cleaning and manipulation, machine learning, and natural language processing)
+- Prior experience with analysis of behavioral and/or neural data
 
 To apply for the position, please complete the application below.
 
