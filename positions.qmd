@@ -1,0 +1,54 @@
+# Open Positions
+
+## Lab Manager/Research Technician
+
+Please send your CV and answers to the below questions to [linc.lab.ucmerced@gmail.com](mailto:linc.lab.ucmerced@gmail.com). Please send these in the format “Lastname_CV.pdf” and “Lastname_application.pdf” in an email with the subject line, “Lastname Lab Manager Position 2024”.
+
+1. Please provide the following information:
+  
+    a)   Telephone
+
+    b)   Email
+  
+    c)   Current city of residence
+
+    d)   Undergraduate institution
+
+    e)   Undergraduate major(s)
+
+    f) 	Cumulative GPA
+
+    g)   Year of graduation or expected graduation
+  
+    h)   Are you eligible to work in the US? (unfortunately, we are unable to sponsor new work visas for international applicants)
+  
+2. What experience do you have with empirical research? On what kind of studies did you work (e.g., mTurk, laboratory studies, neuroimaging studies, analysis of big datasets, other)? In what way(s) were you involved in this work (e.g., did you design the study, schedule and run participants, analyze data, program the experiment, etc.)?
+
+3. Please comment on your programming and technical expertise. What programming languages have you used (e.g., Matlab, Python, Bash, HTML/CSS, Javascript, PHP, MySQL)? Could you program an experiment, for example, in PsychoPy, Psychtoolbox, or another software package? Do you have any experience with database development/management? Have you worked with machine learning or NLP methods?
+
+4. Please comment on your statistical expertise. What kinds of analyses are you comfortable implementing? What statistical analysis packages do you have experience with (e.g. SPSS, R, etc.)? Do you have any experience with computational modeling?
+
+5. What are your long-term goals? How will this job help you reach those goals?
+
+6. How long do you plan to stay in this job?
+
+7. In this job, you would be involved in many different kinds of tasks that differ in the skills that they demand. No one is likely to have all these skills on the first day of the job, which is fine; that’s what learning is for. Here are some descriptions of different tasks, demands, and skills that the job will sometimes require. Please rank-order these from those that you are most to least comfortable with:
+
+   	- Attention to detail
+   	- Writing
+   	- Programming
+   	- Tolerance for sometimes repetitive work
+   	- Interacting with other people
+   	- Managing other people
+   	- Organizing large quantities of information
+   	- Independence (e.g., the ability to figure something hard out on your own)
+   	- Working against a deadline
+ 
+ 
+8. Which [research](research.qmd) project from the lab are you most interested in exploring and why? 
+
+9. If you are able to share links to any examples of your technical work (e.g. on GitHub or a personal website) please include them here.
+
+10. Please provide the contact information for at least two individuals who could be asked for a recommendation and indicate in what capacity you have worked with them, and for how long.
+ 
+

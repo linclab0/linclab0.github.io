@@ -17,6 +17,8 @@ website:
         text: Research
       - file: contact.qmd
         text: Contact
+      - file: positions.qmd
+        text: Open Positions
 
 format:
   html:
