@@ -15,7 +15,7 @@ Cognitive & Information Sciences.
 
 ## Research Staff
 
-::: {layout-ncol="2"}
+::: {}
 ![](img/Pimentel-Hurlburt_crop.jpeg){style="border-radius: 50%;" width="191"}\
 Dulce Karina Pimentel-Hurlburt is the LInC lab manager.
 :::
