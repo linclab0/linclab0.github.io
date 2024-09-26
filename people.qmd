@@ -6,12 +6,19 @@ editor: visual
 
 <div>
 
-![](img/avatar.jpg){style="border-radius: 50%;" width="191"}\
+![](img/Ryskin_Rachel_200910-1-cropped-square.jpeg){style="border-radius: 50%;" width="191"}\
 
-[Rachel Ryskin](http://rachelrysk.in) is an Assistant Professor in
+[Rachel Ryskin](https://raryskin.github.io/) is an Assistant Professor in
 Cognitive & Information Sciences.
 
 </div>
+
+## Research Staff
+
+::: {layout-ncol="2"}
+![](img/Pimentel-Hurlburt_crop.jpeg){style="border-radius: 50%;" width="191"}\
+Dulce Karina Pimentel-Hurlburt is the LInC lab manager.
+:::
 
 ## Graduate Students
 
@@ -22,13 +29,13 @@ Information Sciences.
 :::
 
 ::: {layout-ncol="2"}
-![](img/gokcen.jpg){style="border-radius: 50%;" width="191"}\
-Yasemin Gokcen is a PhD student in Cognitive & Information Sciences.
+![](img/OGawel_headshot_crop.jpeg){style="border-radius: 50%;" width="191"}\
+Olivia Gawel is a PhD student in Cognitive & Information Sciences.
 :::
 
 ::: {layout-ncol="2"}
-![](img/avatar_liu.jpg){style="border-radius: 50%;" width="191"}\
-Joyce Liu is a MS student in Cognitive & Information Sciences.
+![](img/gokcen.jpg){style="border-radius: 50%;" width="191"}\
+Yasemin Gokcen is a PhD student in Cognitive & Information Sciences.
 :::
 
 ::: {layout-ncol="2"}
@@ -36,31 +43,27 @@ Joyce Liu is a MS student in Cognitive & Information Sciences.
 Tevin Williams is a PhD student in Cognitive & Information Sciences.
 :::
 
-## Research Staff
-
-::: {layout-ncol="2"}
-![](img/ortega.jpg){style="border-radius: 50%;" width="191"}\
-[Alyssa Ortega](https://www.linkedin.com/in/avortega) is the current lab
-manager.
-:::
-
 ## Undergraduate Research Assistants
 
 Alton Chao
 
-Isabelle Dohnke
+Ellis Hampton
 
-Aryaan Mishra
+Saloni Naik
 
-Eduardo Santiago
-
-Renisha Singh
+Jonathan Rivera
 
 Joe Shem
+
+Sukanya Sriram
 
 Rich Truong
 
 ## Former Lab Members
+
+### Post-bacc
+
+Alyssa Ortega (now PhD Student at UW Madison)
 
 ### Graduate
 
@@ -70,29 +73,41 @@ Richard Ellks, M.S. 2022 (now research coordinator at Stanford)
 
 Xinzhu Fang
 
-### Undergraduate
+Joyce Liu, M.S. 2023 (now lab manager at UC Merced)
 
-Tina Fathollahi
+### Undergraduate
 
 Nora Chen
 
 Isaac Corona
 
-Ma Angela Montiel (now research coordinator at UC Boulder)
+Isabelle Dohnke
 
-Vera Nicolette-Sanchez (now at UC Merced)
-
-Jet Mejia-Bohol
+Tina Fathollahi
 
 Jacob Lawson
 
+Jet Mejia-Bohol
+
+Aryaan Mishra
+
+Ma Angela Montiel (now PhD student at UC Santa Cruz)
+
+Vera Nicolette-Sanchez (now at UC Merced)
+
+Eduardo Santiago
+
+Renisha Singh
+
 Levi Williams
+
 
 ## Lab Photos
 
 Spring 2024
 
-![](img/spring2024_lab_photo_normal.jpg) ![](img/spring2024_lab_photo_funny.jpg)
+![](img/spring2024_lab_photo_normal.jpg)
+![](img/spring2024_lab_photo_funny.jpg)
 
 Joint LInC/Marghetis Lab Pizza lunch (Fall 2021)
 
