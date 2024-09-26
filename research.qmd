@@ -7,11 +7,11 @@ bibliography: pubs.bib
 
 - [**Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan**](https://aclanthology.org/2024.cmcl-1.19/). </br>
 Cain, E. & Ryskin, R. </br>
-Proceedings paper in _Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics_
+Talk & proceedings paper in _Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics_
 
 - [**Professional Jazz Musicians Explore and Exploit a Space of Sounds**](https://escholarship.org/content/qt72b6c674/qt72b6c674.pdf). </br>
 Williams, T., Setzler, M., Kim, M., Ryskin, R. A., Spivey, M., & Marghetis, T. </br>
-Proceedings paper in _Proceedings of the Cognitive Science Society_
+Poster & proceedings paper in _Proceedings of the Cognitive Science Society_
 
 - **Investigating ERP Indices of Syntactic Adaptation**. </br>
 Williams, T., Ostrand, R., Montiel, A. & Ryskin, R.</br>
