@@ -3,7 +3,34 @@ title: "Research"
 bibliography: pubs.bib
 ---
 
+
+## 2025
+
+- [**Noisy-channel language comprehension in aphasia: A Bayesian mixture modeling approach**](https://doi.org/10.3758/s13423-025-02639-z).</br>
+Ryskin, R., Gibson, E., & Kiran, S. </br>
+Paper in _Psychonomic Bulletin & Review_
+
+- [**The Contribution of Learning and Memory Processes to Verb-Specific Syntactic Processing**](https://doi.org/10.1016/j.jml.2024.104595). </br>
+Ball L., Mak M., Ryskin R., Curtis A., Rodd J., & Gaskell MG.  </br>
+Paper in _Journal of Memory and Language_
+
+- [**Diachronic language change and age-related differences in information-theoretic efficiency**](https://nds.uni-saarland.de/rails2025/submission_37.pdf).</br>
+Cain, E., Chao, A., & Ryskin, R. </br>
+Talk at _Rational Approaches in Language Science (RAILS)_
+
 ## 2024
+
+- [**The role of context gating in predictive sentence processing**](https://drive.google.com/file/d/15K4uYOreGSv0WLrcPgsNk0H3sHLwSLtG/view).</br>
+Gokcen, Y., Noelle, D., & Ryskin, R. </br>
+Talk at _California Meetup on Psycholinguistics (UCSD)_
+
+- [**Stability in the production of syntactic attachment across the lifespan**](https://drive.google.com/file/d/1snBWzGva4hMyjKzBs5s7Q7o-2n5M7kda/view).</br>
+Cain, E., Chao, A., & Ryskin, R. </br>
+Talk at _California Meetup on Psycholinguistics (UCSD)_
+
+- [**Diachronic language change explains apparent age-related differences in information-theoretic efficiency**](https://drive.google.com/file/d/1z8agViAnzfv4D1CksikZEShxEM03VE92/view).</br>
+Cain, E., Chao, A., & Ryskin, R. </br>
+Poster at _California Meetup on Psycholinguistics (UCSD)_
 
 - [**Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan**](https://aclanthology.org/2024.cmcl-1.19/). </br>
 Cain, E. & Ryskin, R. </br>
@@ -15,11 +42,11 @@ Poster & proceedings paper in _Proceedings of the Cognitive Science Society_
 
 - **Investigating ERP Indices of Syntactic Adaptation**. </br>
 Williams, T., Ostrand, R., Montiel, A. & Ryskin, R.</br>
-Talk at _California Meetup on Psycholinguistics_
+Talk at _California Meetup on Psycholinguistics (Stanford)_
 
 - **Effects of context and proficiency on processing difficulty during L2 reading**. </br>
 Liu, C., Ryskin, R. & Aguirre-Muñoz, Z.</br>
-Poster at _California Meetup on Psycholinguistics_
+Poster at _California Meetup on Psycholinguistics (Stanford)_
 
 ## 2023
 
@@ -85,7 +112,7 @@ Jouravlev, O., Malik-Moraleda, S., Kean, H., Varley, R., & Fedorenko, E.</br> Pa
 
 - [**Scalar Implicature is Sensitive to Contextual Alternatives**](https://doi.org/10.1111/cogs.13238). <br/>
 Zhang, Z., Bergen, L., Paunov, A., Ryskin, R., & Gibson, E. </br>
-Paer in _Cognitive Science_. 
+Paper in _Cognitive Science_. 
 
 - [**A Noisy-Channel Approach to Depth-Charge Illusions**](https://doi.org/10.1016/j.cognition.2022.105346). <br/>
 Zhang, Y., Ryskin, R., & Gibson, E. </br>
