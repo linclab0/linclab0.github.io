@@ -6,6 +6,10 @@ bibliography: pubs.bib
 
 ## 2025
 
+- [**Cross-Situational Statistics Present in an Early Language Learning Context: Evidence From Naturalistic Parent–Child Interactions**](https://doi.org/10.1111/cogs.70078). </br>
+Cain, E., Ryskin, R., & Yu, C. </br>
+Paper in _Cognitive Science_. [[PDF](https://escholarship.org/uc/item/3vq7v1s8)]
+
 - [**Noisy-channel language comprehension in aphasia: A Bayesian mixture modeling approach**](https://doi.org/10.3758/s13423-025-02639-z).</br>
 Ryskin, R., Gibson, E., & Kiran, S. </br>
 Paper in _Psychonomic Bulletin & Review_
