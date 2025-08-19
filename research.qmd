@@ -6,6 +6,34 @@ bibliography: pubs.bib
 
 ## 2025
 
+- [**Efficient Audience Design in LLMs**](https://escholarship.org/uc/item/6zm2f1n3). </br>
+Ryskin, R., Gawel, O., Tanzer, O., Pailo, V., & Kello, C.</br>
+Poster & proceedings paper in _Proceedings of the Annual Meeting of the Cognitive Science Society_.
+
+- [**Language experience and prediction across the lifespan: evidence from diachronic fine-tuning of language models.**](https://escholarship.org/uc/item/83b1p2nz) </br>
+Chao, A., Cain, E., & Ryskin, R. </br>
+Poster & proceedings paper in _Proceedings of the Annual Meeting of the Cognitive Science Society_.
+
+- [**The Role of Context Gating in Predictive Sentence Processing**](https://escholarship.org/uc/item/21w8j87z). </br>
+Gokcen, Y., Noelle, D. C., & Ryskin, R. </br>
+Poster & proceedings paper in _Proceedings of the Annual Meeting of the Cognitive Science Society_.
+
+- [**Adaptation to noisy language input in real time: Evidence from ERPs**](https://escholarship.org/uc/item/8cm7p4hw). </br>
+Li, J., Ortega, A. V., Futrell, R., & Ryskin, R. </br>
+Poster & proceedings paper in _Proceedings of the Annual Meeting of the Cognitive Science Society_.
+
+- [**Mathematics as visual skill: Evidence from eye movements during algebraic reasoning**](https://escholarship.org/uc/item/7fj169hz).</br>
+Naik, S., Ryskin, R., & Marghetis, T. </br>
+Poster at the _Annual Meeting of the Cognitive Science Society_.
+
+- [**Eye Movement Patterns Influence Investment Decision Making**](https://escholarship.org/uc/item/45d058c9).</br>
+Hosseinpour, H., Aguirre-Munoz, Z., Spivey, M., Castro, S., Ryskin, R., & Padilla, L. </br>
+Poster at the _Annual Meeting of the Cognitive Science Society_.
+
+- [**What Paradigms Can Webcam Eye-Tracking Be Used For? Attempted Replications of Five Cognitive Science Experiments**](https://doi.org/10.1525/collabra.140755). </br>
+James, A. N., Ryskin, R., Hartshorne, J. K., Backs, H., Bala, N., Barcenas-Meade, L., Bhattarai, S., Charles, T., Copoulos, G., Coss, C., Eisert, A., Furuhashi, E., Ginell, K., Guttman-McCabe, A., Hoban, L., Hwang, W. A., Iannetta, C., Koenig, K. M., Lo, C., … de Leeuw, J. R.</br>
+Paper in _Collabra: Psychology_, 11(1).
+
 - [**Cross-Situational Statistics Present in an Early Language Learning Context: Evidence From Naturalistic Parent–Child Interactions**](https://doi.org/10.1111/cogs.70078). </br>
 Cain, E., Ryskin, R., & Yu, C. </br>
 Paper in _Cognitive Science_. [[PDF](https://escholarship.org/uc/item/3vq7v1s8)]
