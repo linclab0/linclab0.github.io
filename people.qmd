@@ -9,7 +9,7 @@ editor: visual
 ![](img/Ryskin_Rachel_200910-1-cropped-square.jpeg){style="border-radius: 50%;"
 width="191"}\
 
-[Rachel Ryskin](https://raryskin.github.io/) is an Assistant Professor
+[Rachel Ryskin](https://raryskin.github.io/) is the lab PI & an Associate Professor
 in Cognitive & Information Sciences.
 
 </div>
@@ -18,9 +18,9 @@ in Cognitive & Information Sciences.
 
 <div>
 
-![](img/Pimentel-Hurlburt_crop.jpeg){style="border-radius: 50%;"
+![](img/saloni_naik.jpg){style="border-radius: 50%;"
 width="191"}\
-Dulce Karina Pimentel-Hurlburt is the LInC lab manager.
+[Saloni Naik](https://salonisnaik.github.io/) is the LInC lab manager.
 
 </div>
 
@@ -29,7 +29,7 @@ Dulce Karina Pimentel-Hurlburt is the LInC lab manager.
 <div>
 
 ![](img/avatar_cain.jpeg){style="border-radius: 50%;" width="191"}\
-[Ellis Cain](https://ellisc.dev/) is a PhD student in Cognitive &
+[Ellis Cain](https://ellisc.dev/) is a 5th year PhD student in Cognitive &
 Information Sciences.
 
 </div>
@@ -38,45 +38,39 @@ Information Sciences.
 
 ![](img/OGawel_headshot_crop.jpeg){style="border-radius: 50%;"
 width="191"}\
-Olivia Gawel is a PhD student in Cognitive & Information Sciences.
+Olivia Gawel is a 2nd year PhD student in Cognitive & Information Sciences.
 
 </div>
 
 <div>
 
 ![](img/gokcen.jpg){style="border-radius: 50%;" width="191"}\
-Yasemin Gokcen is a PhD student in Cognitive & Information Sciences.
+Yasemin Gokcen is a 4th year PhD student in Cognitive & Information Sciences.
 
 </div>
 
 <div>
 
 ![](img/avatar_williams.jpeg){style="border-radius: 50%;" width="191"}\
-Tevin Williams is a PhD student in Cognitive & Information Sciences.
+Tevin Williams is a 5th year PhD student in Cognitive & Information Sciences.
 
 </div>
 
 ## Undergraduate Research Assistants
 
-Alton Chao
-
 Ellis Hampton
 
-Saloni Naik
-
-Jonathan Rivera
+Jonathan Rivera Lopez
 
 Joe Shem
-
-Sukanya Sriram
-
-Rich Truong
 
 ## Former Lab Members
 
 ### Post-bacc
 
 Alyssa Ortega (now PhD Student at UW Madison)
+
+Dulce Karina Pimentel-Hurlburt (now Clinical Research Coordinator Associate at Stanford)
 
 ### Graduate
 
@@ -86,15 +80,17 @@ Richard Ellks, M.S. 2022 (now research coordinator at Stanford)
 
 Xinzhu Fang
 
-Joyce Liu, M.S. 2023 (now lab manager at UC Merced)
+Joyce Liu, M.S. 2023 (now PhD student at UC Merced)
 
 ### Undergraduate
+
+Alton Chao (now PhD student at Purdue University)
 
 Nora Chen
 
 Isaac Corona
 
-Isabelle Dohnke
+Isabella Dohnke
 
 Tina Fathollahi
 
@@ -111,6 +107,10 @@ Vera Nicolette-Sanchez (now at UC Merced)
 Eduardo Santiago
 
 Renisha Singh
+
+Sukanya Sriram
+
+Rich Truong
 
 Levi Williams
 
