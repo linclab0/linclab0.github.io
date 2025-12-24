@@ -6,6 +6,33 @@ bibliography: pubs.bib
 
 ## 2025
 
+- [**Semantic Representations Are Updated Across the Lifespan Reflecting Diachronic Language Change.**](https://doi.org/10.1162/OPMI.a.315)</br>
+Cain, E., & Ryskin, R. </br>
+Paper in _Open Mind_
+
+- [**Noisy Channel Inference in Large Language Models.**](https://ucdavis.app.box.com/s/64spbknw57i4riv3no6f7vhuy7esz0mg)</br>
+Gawel, O., & Ryskin, R. </br>
+Poster at _California Meetup on Psycholinguistics (UC Davis)_
+
+- [**The Role of Discourse Context and Noise in Language Comprehension under Memory Load.**](https://ucdavis.app.box.com/s/64spbknw57i4riv3no6f7vhuy7esz0mg)</br>
+Gawel, O., & Ryskin, R. </br>
+Talk at _California Meetup on Psycholinguistics (UC Davis)_
+
+- [**Language Experience and Prediction Across Age Groups: Evidence from Language Models**](https://ucdavis.app.box.com/s/64spbknw57i4riv3no6f7vhuy7esz0mg)</br>
+Chao, A., Cain, E., & Ryskin, R.</br>
+Talk at _California Meetup on Psycholinguistics (UC Davis)_
+
+- [**The Immediate Sensorimotor Feedback Loop in Language Comprehension and Decision-Making.**](https://ucdavis.app.box.com/s/64spbknw57i4riv3no6f7vhuy7esz0mg)</br>
+Hosseinpour, H., Aguirre-Munoz, Spivey, M., Castro, S., Ryskin, R., & Padilla, L.</br> Poster at _California Meetup on Psycholinguistics, UC Davis_.
+
+- **Language experience and prediction across age groups: evidence from diachronic fine-tuning of language models.**</br>
+Chao, A., Cain, E., & Ryskin, R. (2025) </br>
+Poster at the _63rd Annual Academy of Aphasia Meeting, San Diego_.
+
+- **The Role of Context Gating in Predictive Sentence Processing**. </br>
+Gokcen, Y., Noelle, D. C., & Ryskin, R. </br>
+Poster at _Society for the Neurobiology of Language_.
+
 - [**Efficient Audience Design in LLMs**](https://escholarship.org/uc/item/6zm2f1n3). </br>
 Ryskin, R., Gawel, O., Tanzer, O., Pailo, V., & Kello, C.</br>
 Poster & proceedings paper in _Proceedings of the Annual Meeting of the Cognitive Science Society_.
