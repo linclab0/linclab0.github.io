@@ -9,8 +9,8 @@ editor: visual
 ![](img/Ryskin_Rachel_200910-1-cropped-square.jpeg){style="border-radius: 50%;"
 width="191"}\
 
-[Rachel Ryskin](https://raryskin.github.io/) is the lab PI & an Associate Professor
-in Cognitive & Information Sciences.
+[Rachel Ryskin](https://raryskin.github.io/) is the lab PI & an
+Associate Professor in Cognitive & Information Sciences.
 
 </div>
 
@@ -18,8 +18,7 @@ in Cognitive & Information Sciences.
 
 <div>
 
-![](img/saloni_naik.jpg){style="border-radius: 50%;"
-width="191"}\
+![](img/saloni_naik.jpg){style="border-radius: 50%;" width="191"}\
 [Saloni Naik](https://salonisnaik.github.io/) is the LInC lab manager.
 
 </div>
@@ -29,8 +28,8 @@ width="191"}\
 <div>
 
 ![](img/avatar_cain.jpeg){style="border-radius: 50%;" width="191"}\
-[Ellis Cain](https://ellisc.dev/) is a 5th year PhD student in Cognitive &
-Information Sciences.
+[Ellis Cain](https://ellisc.dev/) is a 5th year PhD student in Cognitive
+& Information Sciences.
 
 </div>
 
@@ -38,21 +37,24 @@ Information Sciences.
 
 ![](img/OGawel_headshot_crop.jpeg){style="border-radius: 50%;"
 width="191"}\
-Olivia Gawel is a 2nd year PhD student in Cognitive & Information Sciences.
+Olivia Gawel is a 2nd year PhD student in Cognitive & Information
+Sciences.
 
 </div>
 
 <div>
 
 ![](img/gokcen.jpg){style="border-radius: 50%;" width="191"}\
-Yasemin Gokcen is a 4th year PhD student in Cognitive & Information Sciences.
+Yasemin Gokcen is a 4th year PhD student in Cognitive & Information
+Sciences.
 
 </div>
 
 <div>
 
 ![](img/avatar_williams.jpeg){style="border-radius: 50%;" width="191"}\
-Tevin Williams is a 5th year PhD student in Cognitive & Information Sciences.
+Tevin Williams is a 5th year PhD student in Cognitive & Information
+Sciences.
 
 </div>
 
@@ -60,31 +62,36 @@ Tevin Williams is a 5th year PhD student in Cognitive & Information Sciences.
 
 Ellis Hampton
 
+Mereal Jarjour
+
 Jonathan Rivera Lopez
 
 Joe Shem
+
+Devlan Smith
 
 ## Former Lab Members
 
 ### Post-bacc
 
-Alyssa Ortega (now PhD Student at UW Madison)
+Alyssa Ortega (➝ PhD Student at UW Madison)
 
-Dulce Karina Pimentel-Hurlburt (now Clinical Research Coordinator Associate at Stanford)
+Dulce Karina Pimentel-Hurlburt (➝ Clinical Research Coordinator
+Associate at Stanford)
 
 ### Graduate
 
 Polyphony Bruna
 
-Richard Ellks, M.S. 2022 (now research coordinator at Stanford)
+Richard Ellks, M.S. 2022 (➝ research coordinator at Stanford)
 
 Xinzhu Fang
 
-Joyce Liu, M.S. 2023 (now PhD student at UC Merced)
+Joyce Liu, M.S. 2023 (➝ PhD student at UC Merced)
 
 ### Undergraduate
 
-Alton Chao (now PhD student at Purdue University)
+Alton Chao (➝ PhD student at Purdue University)
 
 Nora Chen
 
@@ -100,9 +107,9 @@ Jet Mejia-Bohol
 
 Aryaan Mishra
 
-Ma Angela Montiel (now PhD student at UC Santa Cruz)
+Ma Angela Montiel (➝ PhD student at UC Santa Cruz)
 
-Vera Nicolette-Sanchez (now at UC Merced)
+Vera Nicolette-Sanchez (➝ UC Merced)
 
 Eduardo Santiago
 

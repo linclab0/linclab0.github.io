@@ -1,7 +1,20 @@
 ---
 title: "Research"
-bibliography: pubs.bib
 ---
+
+## 2026
+
+- [**The Role of Memory in Noisy-Channel Inference during Language Comprehension.**](https://hsp2026.org/posters/upload_117.pdf) </br>
+Gawel, O. & Ryskin, R. </br>
+Poster at _Human Sentence Processing (HSP), MIT_
+
+- [**Linguistic Alignment and Memory for Conversation in a Socially Adverse Context.**](https://hsp2026.org/abstracts/submission_358.pdf)</br>
+Williams, T., Spivey, M., & Ryskin, R. </br>
+Poster at _Human Sentence Processing (HSP), MIT_
+
+- [**Eye movements reveal real-time noisy-channel inference in spoken word processing**](https://hsp2026.org/abstracts/submission_287.pdf).</br>
+Ryskin, R. </br>
+Talk at _Human Sentence Processing (HSP), MIT_
 
 
 ## 2025

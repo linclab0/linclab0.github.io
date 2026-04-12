@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-571695a5253bcd5042469a43f7ce50e8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-58901ebf3b56dc10aa6bd9c472aa048d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,7 +81,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./img/icon-512.png" alt="" class="navbar-logo">
+    <img src="./img/icon-512.png" alt="" class="navbar-logo light-content">
+    <img src="./img/icon-512.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">LInC Lab</span>
@@ -202,26 +204,28 @@ Tevin Williams is a 5th year PhD student in Cognitive &amp; Information Sciences
 <section id="undergraduate-research-assistants" class="level2">
 <h2 class="anchored" data-anchor-id="undergraduate-research-assistants">Undergraduate Research Assistants</h2>
 <p>Ellis Hampton</p>
+<p>Mereal Jarjour</p>
 <p>Jonathan Rivera Lopez</p>
 <p>Joe Shem</p>
+<p>Devlan Smith</p>
 </section>
 <section id="former-lab-members" class="level2">
 <h2 class="anchored" data-anchor-id="former-lab-members">Former Lab Members</h2>
 <section id="post-bacc" class="level3">
 <h3 class="anchored" data-anchor-id="post-bacc">Post-bacc</h3>
-<p>Alyssa Ortega (now PhD Student at UW Madison)</p>
-<p>Dulce Karina Pimentel-Hurlburt (now Clinical Research Coordinator Associate at Stanford)</p>
+<p>Alyssa Ortega (➝ PhD Student at UW Madison)</p>
+<p>Dulce Karina Pimentel-Hurlburt (➝ Clinical Research Coordinator Associate at Stanford)</p>
 </section>
 <section id="graduate" class="level3">
 <h3 class="anchored" data-anchor-id="graduate">Graduate</h3>
 <p>Polyphony Bruna</p>
-<p>Richard Ellks, M.S. 2022 (now research coordinator at Stanford)</p>
+<p>Richard Ellks, M.S. 2022 (➝ research coordinator at Stanford)</p>
 <p>Xinzhu Fang</p>
-<p>Joyce Liu, M.S. 2023 (now PhD student at UC Merced)</p>
+<p>Joyce Liu, M.S. 2023 (➝ PhD student at UC Merced)</p>
 </section>
 <section id="undergraduate" class="level3">
 <h3 class="anchored" data-anchor-id="undergraduate">Undergraduate</h3>
-<p>Alton Chao (now PhD student at Purdue University)</p>
+<p>Alton Chao (➝ PhD student at Purdue University)</p>
 <p>Nora Chen</p>
 <p>Isaac Corona</p>
 <p>Isabella Dohnke</p>
@@ -229,8 +233,8 @@ Tevin Williams is a 5th year PhD student in Cognitive &amp; Information Sciences
 <p>Jacob Lawson</p>
 <p>Jet Mejia-Bohol</p>
 <p>Aryaan Mishra</p>
-<p>Ma Angela Montiel (now PhD student at UC Santa Cruz)</p>
-<p>Vera Nicolette-Sanchez (now at UC Merced)</p>
+<p>Ma Angela Montiel (➝ PhD student at UC Santa Cruz)</p>
+<p>Vera Nicolette-Sanchez (➝ UC Merced)</p>
 <p>Eduardo Santiago</p>
 <p>Renisha Singh</p>
 <p>Sukanya Sriram</p>
@@ -313,13 +317,14 @@ Tevin Williams is a 5th year PhD student in Cognitive &amp; Information Sciences
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
