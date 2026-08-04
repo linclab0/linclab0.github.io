@@ -1,7 +1,6 @@
 ---
 title: "People"
 format: html
-editor: visual
 ---
 
 <div>
@@ -122,6 +121,10 @@ Rich Truong
 Levi Williams
 
 ## Lab Photos
+
+### PhD Graduation 2026
+![](img/A5A8BC58-23D7-42C6-9783-C42E70C276E6_1_105_c.jpeg)
+
 
 ### LInC lab at CogSci 2025
 

@@ -1,7 +1,15 @@
 
+# For potential participants
+
 Please reach out if you are interested in participating in research!
 
-If you are interested in joining the lab as a graduate or undergraduate student, please reach out to [Rachel Ryskin](https://raryskin.github.io/) directly.
+UC Merced students interested in participating can find out more about ongoing studies in the lab by checking out our lab's studies on [SONA](https://ucmerced.sona-systems.com/default.aspx?logout=Y).
+
+We are also recruiting individuals from the community, especially individuals who are in their 60s and older. You can fill out this brief form to indicate that you are interested in particating and we will reach out to you soon: [https://redcap.link/LInC.Lab](https://redcap.link/LInC.Lab)
+
+# For prospective students or postdocs
+
+If you are interested in joining the lab as a researcher, please reach out to [Rachel Ryskin](https://raryskin.github.io/) directly.
 
 # E-mail
 
@@ -11,6 +19,6 @@ If you are interested in joining the lab as a graduate or undergraduate student,
 
 University of California, Merced <br />
 SSM 368 <br />
-5200 Lake Road <br />
+5200 North Lake Road <br />
 Merced, CA 95343
 
