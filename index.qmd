@@ -6,20 +6,18 @@ about:
   image: img/icon-512.png
 ---
 
-Language endows us with the ability to communicate the contents of our
-mind with another person. But how do we decode another person's thoughts
+How do we decode another person's thoughts
 and intentions from a sequence of sounds (speech) or shapes (letters,
-signs)? This challenge seems compounded by the fact that transmission of
-this sequence is often imperfect -- speakers and listeners make errors,
-don't have the same prior knowledge, and sometimes even see different
-things. Yet, communication with another person typically feels
-effortless. In the Language, Interaction, & Cognition (LInC) Lab, we
-take a cognitive science approach to understanding how the human
-language processing system extracts meaning from uncertain and variable
-input. 
+signs)? And how do we choose what to say next to convey our thoughts to another person?
+ The LInC Lab is a group of cognitive scientists tackling these questions using behavioral, neuroscientific, and computational tools. 
 
 To get more information about ongoing projects, please visit the
 [research](research.qmd) page or check individual [lab
 members'](people.qmd) pages for a full list of their publications. If
 you would like to participate in the lab's research or are interested in
-joining the lab, get in touch via [e-mail](contact.qmd).
+joining the lab, please [get in touch](contact.qmd).
+
+## News
+
+**May 2026** — Congratulations to Ellis Cain and Tevin Williams, who have
+completed their PhDs and are off to postdoc and faculty jobs!

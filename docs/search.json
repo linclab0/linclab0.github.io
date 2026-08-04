@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Language, Interaction, & Cognition Lab",
     "section": "",
-    "text": "To get more information about ongoing projects, please visit the research page or check individual lab members’ pages for a full list of their publications. If you would like to participate in the lab’s research or are interested in joining the lab, get in touch via e-mail."
+    "text": "How do we decode another person’s thoughts and intentions from a sequence of sounds (speech) or shapes (letters, signs)? And how do we choose what to say next to convey our thoughts to another person? The LInC Lab is a group of cognitive scientists tackling these questions using behavioral, neuroscientific, and computational tools.\nTo get more information about ongoing projects, please visit the research page or check individual lab members’ pages for a full list of their publications. If you would like to participate in the lab’s research or are interested in joining the lab, please get in touch."
   },
   {
     "objectID": "people.html",
@@ -152,5 +152,12 @@
     "title": "Research",
     "section": "2020",
     "text": "2020\n\nProbabilistic weighting of perspectives in dyadic communication.  Ryskin, R., Stevenson, S., & Heller, D. Talk & proceedings paper in Proceedings of the 42nd Annual Meeting of the Cognitive Science Society.\nDo domain-general executive resources play a role in linguistic prediction? Re-evaluation of the evidence and a path forward.  Ryskin, R., Levy, R. P., & Fedorenko, E. Paper in Neuropsychologia.\nIndividual-subject functional localization does not benefit ERP analyses.  Ryskin, R., & Fedorenko, E.  Poster at Society for the Neurobiology of Language.\nNeural representation of syntactic prediction: A simultaneous eye-tracking and EEG study.  Weng, Y., Ryskin, R., & Qi, Z.  Poster at Society for the Neurobiology of Language.\nProbabilistic weighting of perspectives in dyadic communication.  Ryskin, R., Stevenson, S., & Heller, D.  Poster at Cognitive Modeling and Computational Linguistics (CMCL) workshop.\nThe role of construction frequency in listeners’ noisy-channel inferences.  Liu, Y., Ryskin, R., Futrell, R., & Gibson, E.  Poster at Architectures and Mechanisms of Language Processing (AMLaP).\nAssessing the inferential strength of epistemic ‘must’.  Ricciardi, G. Ryskin, R., & Gibson, E.  Talk presented at Experiments in Linguistic Meaning (ELM)."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Language, Interaction, & Cognition Lab",
+    "section": "News",
+    "text": "News\nMay 2026 — Congratulations to Ellis Cain and Tevin Williams, who have completed their PhDs and are off to postdoc and faculty jobs!"
   }
 ]
