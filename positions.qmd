@@ -1,5 +1,9 @@
-# Open Positions
+---
+title: "Open Positions"
+toc: true
+---
 
+::: {.positions-page}
 
 ## Lab Manager/Research Technician
 
@@ -77,5 +81,5 @@ Please send your CV and answers to the below questions to [linc.lab.ucmerced@gma
 9. If you are able to share links to any examples of your technical work (e.g. on GitHub or a personal website) please include them here.
 
 10. Please provide the contact information for at least two individuals who could be asked for a recommendation and indicate in what capacity you have worked with them, and for how long.
- 
 
+:::

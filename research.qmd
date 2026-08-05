@@ -1,6 +1,10 @@
 ---
 title: "Research"
+toc: true
+toc-title: "Years"
 ---
+
+::: {.research-list}
 
 ## 2026
 
@@ -280,5 +284,4 @@ Poster at _Architectures and Mechanisms of Language Processing (AMLaP)_.
 Ricciardi, G. Ryskin, R., & Gibson, E. </br> 
 Talk presented at _Experiments in Linguistic Meaning (ELM)_.
 
-
-
+:::

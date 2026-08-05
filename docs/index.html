@@ -30,9 +30,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./img/icon-32.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -57,12 +59,12 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
-<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -103,36 +105,64 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="img/icon-512.png" class="about-image
-  rounded " style="width: 20em;">
+<main class="content column-page" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Language, Interaction, &amp; Cognition Lab</h1>
-<p class="subtitle lead">Department of Cognitive &amp; Information Sciences @ UC Merced</p>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+    
   </div>
+  
+
 </header>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>How do we decode another person’s thoughts and intentions from a sequence of sounds (speech) or shapes (letters, signs)? And how do we choose what to say next to convey our thoughts to another person? The LInC Lab is a group of cognitive scientists tackling these questions using behavioral, neuroscientific, and computational tools.</p>
-<p>To get more information about ongoing projects, please visit the <a href="./research.html">research</a> page or check individual <a href="./people.html">lab members’</a> pages for a full list of their publications. If you would like to participate in the lab’s research or are interested in joining the lab, please <a href="./contact.html">get in touch</a>.</p>
-<section id="news" class="level2">
-<h2 data-anchor-id="news">News</h2>
-<p><strong>May 2026</strong> — Congratulations to Ellis Cain and Tevin Williams, who have completed their PhDs and are off to postdoc and faculty jobs!</p>
 
-
-</section>
-</main></div>
+<div class="home-shell">
+<div class="home-hero">
+<div class="home-logo-wrap">
+<p><img src="img/iconf-512.png" class="home-logo img-fluid" alt="LInC Lab logo"></p>
 </div>
- <!-- /main -->
+<div class="home-hero-copy">
+<p class="home-kicker">
+University of California, Merced
+</p>
+<section id="language-interaction-cognition-lab" class="level1">
+<h1>Language, Interaction, &amp; Cognition Lab</h1>
+<p class="home-subtitle">
+Department of Cognitive &amp; Information Sciences
+</p>
+</section>
+</div>
+</div>
+<div class="home-content-grid">
+<div class="home-about">
+<p>How do we decode another person’s thoughts and intentions from a sequence of sounds (speech) or shapes (letters, signs)? And how do we choose what to say next to transfer our thoughts to another person’s mind? The LInC Lab is a group of cognitive scientists tackling these questions using behavioral, neuroscientific, and computational tools.</p>
+<p>To get more information about ongoing projects, please visit the <a href="./research.html">research</a> page or check individual <a href="./people.html">lab members’</a> pages for a full list of their publications. If you would like to participate in the lab’s research or are interested in joining the lab, please <a href="./contact.html">get in touch</a>.</p>
+</div>
+<section id="news" class="level2 news-card">
+<h2 class="anchored" data-anchor-id="news">News</h2>
+<div class="news-item">
+<p><span class="news-date">May 2026</span></p>
+<p>Congratulations to <strong>Ellis Cain</strong> and <strong>Tevin Williams</strong>, who have completed their PhDs and are off to postdoc and faculty jobs!</p>
+</div>
+</section>
+</div>
+</div>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -153,6 +183,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
@@ -233,4 +270,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

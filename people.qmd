@@ -1,92 +1,114 @@
 ---
 title: "People"
-format: html
+toc: false
 ---
 
-<div>
+## Principal Investigator
 
-![](img/Ryskin_Rachel_200910-1-cropped-square.jpeg){style="border-radius: 50%;"
-width="191"}\
+:::: {.people-grid .people-grid-featured}
 
-[Rachel Ryskin](https://raryskin.github.io/) is the lab PI & an
-Associate Professor in Cognitive & Information Sciences.
+::: {.person-card}
+![](img/web/rachel-ryskin.webp){.person-photo fig-alt="Portrait of Rachel Ryskin"}
 
-</div>
+### [Rachel Ryskin](https://raryskin.github.io/)
+
+Rachel Ryskin is the lab PI & an Associate Professor in Cognitive &
+Information Sciences.
+:::
+
+::::
 
 ## Research Staff
 
-<div>
+:::: {.people-grid .people-grid-featured}
 
-![](img/saloni_naik.jpg){style="border-radius: 50%;" width="191"}\
-[Saloni Naik](https://salonisnaik.github.io/) is the LInC lab manager.
+::: {.person-card}
+![](img/web/saloni-naik.webp){.person-photo fig-alt="Portrait of Saloni Naik"}
 
-</div>
+### [Saloni Naik](https://salonisnaik.github.io/)
+
+Saloni Naik is the LInC lab manager.
+:::
+
+::::
 
 ## Graduate Students
 
-<div>
+:::: {.people-grid}
 
-![](img/avatar_cain.jpeg){style="border-radius: 50%;" width="191"}\
-[Ellis Cain](https://ellisc.dev/) is a 5th year PhD student in Cognitive
-& Information Sciences.
+::: {.person-card}
+![](img/web/ellis-cain.webp){.person-photo fig-alt="Portrait of Ellis Cain"}
 
-</div>
+### [Ellis Cain](https://ellisc.dev/)
 
-<div>
+Ellis Cain is a 5th year PhD student in Cognitive & Information Sciences.
+:::
 
-![](img/OGawel_headshot_crop.jpeg){style="border-radius: 50%;"
-width="191"}\
-Olivia Gawel is a 2nd year PhD student in Cognitive & Information
-Sciences.
+::: {.person-card}
+![](img/web/olivia-gawel.webp){.person-photo fig-alt="Portrait of Olivia Gawel"}
 
-</div>
+### Olivia Gawel
 
-<div>
+Olivia Gawel is a 2nd year PhD student in Cognitive & Information Sciences.
+:::
 
-![](img/gokcen.jpg){style="border-radius: 50%;" width="191"}\
-Yasemin Gokcen is a 4th year PhD student in Cognitive & Information
-Sciences.
+::: {.person-card}
+![](img/web/yasemin-gokcen.webp){.person-photo fig-alt="Portrait of Yasemin Gokcen"}
 
-</div>
+### Yasemin Gokcen
 
-<div>
+Yasemin Gokcen is a 4th year PhD student in Cognitive & Information Sciences.
+:::
 
-![](img/avatar_williams.jpeg){style="border-radius: 50%;" width="191"}\
-Tevin Williams is a 5th year PhD student in Cognitive & Information
-Sciences.
+::: {.person-card}
+![](img/web/tevin-williams.webp){.person-photo fig-alt="Portrait of Tevin Williams"}
 
-</div>
+### Tevin Williams
+
+Tevin Williams is a 5th year PhD student in Cognitive & Information Sciences.
+:::
+
+::::
 
 ## Undergraduate Research Assistants
 
+:::: {.name-grid}
+
+::: {.name-card}
 Ellis Hampton
+:::
 
+::: {.name-card}
 Mereal Jarjour
+:::
 
+::: {.name-card}
 Jonathan Rivera Lopez
+:::
 
+::: {.name-card}
 Joe Shem
+:::
 
+::: {.name-card}
 Devlan Smith
+:::
+
+::::
 
 ## Former Lab Members
+
+### Graduate
+
+Richard Ellks, M.S. 2022 (➝ research coordinator at Stanford)
+
+Joyce Liu, M.S. 2023 (➝ PhD student at UC Merced)
 
 ### Post-bacc
 
 Alyssa Ortega (➝ PhD Student at UW Madison)
 
-Dulce Karina Pimentel-Hurlburt (➝ Clinical Research Coordinator
-Associate at Stanford)
-
-### Graduate
-
-Polyphony Bruna
-
-Richard Ellks, M.S. 2022 (➝ research coordinator at Stanford)
-
-Xinzhu Fang
-
-Joyce Liu, M.S. 2023 (➝ PhD student at UC Merced)
+Dulce Karina Pimentel-Hurlburt (➝ Clinical Research Coordinator Associate at Stanford)
 
 ### Undergraduate
 
@@ -120,31 +142,81 @@ Rich Truong
 
 Levi Williams
 
+
 ## Lab Photos
 
+::: {.gallery-section}
 ### PhD Graduation 2026
-![](img/A5A8BC58-23D7-42C6-9783-C42E70C276E6_1_105_c.jpeg)
 
+:::: {.photo-gallery .photo-gallery-featured}
 
+::: {.gallery-item}
+[![](img/web/graduation-2026.webp){.gallery-image fig-alt="LInC Lab PhD graduation, 2026"}](img/A5A8BC58-23D7-42C6-9783-C42E70C276E6_1_105_c.jpeg)
+:::
+
+::::
+:::
+
+::: {.gallery-section}
 ### LInC lab at CogSci 2025
 
-![](img/CogSci2025_IMG_4916.jpeg)
+:::: {.photo-gallery}
 
-![](img/CogSci2025_IMG_4904.jpeg)
+::: {.gallery-item}
+[![](img/web/cogsci-2025-4916.webp){.gallery-image fig-alt="LInC Lab at CogSci 2025"}](img/CogSci2025_IMG_4916.jpeg)
+:::
 
-![](img/CogSci2025_IMG_4906.jpeg)
+::: {.gallery-item}
+[![](img/web/cogsci-2025-4904.webp){.gallery-image fig-alt="LInC Lab at CogSci 2025"}](img/CogSci2025_IMG_4904.jpeg)
+:::
 
-![](img/CogSci2025_IMG_4909.jpeg)
+::: {.gallery-item}
+[![](img/web/cogsci-2025-4906.webp){.gallery-image fig-alt="LInC Lab at CogSci 2025"}](img/CogSci2025_IMG_4906.jpeg)
+:::
 
-![](img/CogSci2025_IMG_4910.jpeg)
+::: {.gallery-item}
+[![](img/web/cogsci-2025-4909.webp){.gallery-image fig-alt="LInC Lab at CogSci 2025"}](img/CogSci2025_IMG_4909.jpeg)
+:::
 
-![](img/CogSci2025_IMG_4912.jpeg)
+::: {.gallery-item}
+[![](img/web/cogsci-2025-4910.webp){.gallery-image fig-alt="LInC Lab at CogSci 2025"}](img/CogSci2025_IMG_4910.jpeg)
+:::
 
+::: {.gallery-item}
+[![](img/web/cogsci-2025-4912.webp){.gallery-image fig-alt="LInC Lab at CogSci 2025"}](img/CogSci2025_IMG_4912.jpeg)
+:::
+
+::::
+:::
+
+::: {.gallery-section}
 ### Spring 2024
 
-![](img/spring2024_lab_photo_normal.jpg)
-![](img/spring2024_lab_photo_funny.jpg)
+:::: {.photo-gallery}
 
+::: {.gallery-item}
+[![](img/web/spring-2024-normal.webp){.gallery-image fig-alt="LInC Lab group photo, Spring 2024"}](img/spring2024_lab_photo_normal.jpg)
+:::
+
+::: {.gallery-item}
+[![](img/web/spring-2024-funny.webp){.gallery-image fig-alt="LInC Lab group photo, Spring 2024"}](img/spring2024_lab_photo_funny.jpg)
+:::
+
+::::
+:::
+
+::: {.gallery-section}
 ### Joint LInC/Marghetis Lab Pizza lunch (Fall 2021)
 
-![](img/fall2021_pizza.jpg) ![](img/fall2021_pizza2.jpg)
+:::: {.photo-gallery}
+
+::: {.gallery-item}
+[![](img/web/fall-2021-pizza-1.webp){.gallery-image fig-alt="Joint LInC and Marghetis Lab pizza lunch, Fall 2021"}](img/fall2021_pizza.jpg)
+:::
+
+::: {.gallery-item}
+[![](img/web/fall-2021-pizza-2.webp){.gallery-image fig-alt="Joint LInC and Marghetis Lab pizza lunch, Fall 2021"}](img/fall2021_pizza2.jpg)
+:::
+
+::::
+:::

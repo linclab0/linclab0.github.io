@@ -4,10 +4,13 @@ project:
 
 website:
   title: "LInC Lab"
+  favicon: "img/icon-32.png"
+  search: true
   page-footer: "Copyright 2022. Rachel Ryskin"
   navbar:
     background: light
     logo: "img/icon-512.png"
+    collapse: true
     left:
       - file: index.qmd
         text: About
@@ -25,6 +28,6 @@ format:
     theme:
       - litera
       - custom.scss
-    css: styles.css
-    toc: true
-    mainfont: sans-serif;
+    toc: false
+    anchor-sections: true
+    smooth-scroll: true

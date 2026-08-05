@@ -5,27 +5,39 @@ about:
   image: img/avatar.jpg
   links:
     - icon: link-45deg
-     # text: Github
       href: http://rachelrysk.in
     - icon: twitter
-     # text: twitter
       href: https://twitter.com/raryskin
     - icon: github
-     # text: Github
       href: https://github.com/raryskin
 ---
 
-Rachel Ryskin is an Assistant Professor of Cognitive & Information Sciences at UC Merced. She wants to figure out what cognitive processes and computations enable humans to understand each other. In particular, she studies how learning and context-specific predictions help the human mind and brain deal with the noise and ambiguity present in everyday communication.
+Rachel Ryskin is an Assistant Professor of Cognitive & Information Sciences at
+UC Merced. She wants to figure out what cognitive processes and computations
+enable humans to understand each other. In particular, she studies how learning
+and context-specific predictions help the human mind and brain deal with the
+noise and ambiguity present in everyday communication.
 
 ## Education
 
-Massachusetts Institute of Technology <br />
+:::: {.education-grid}
+
+::: {.education-card}
+**Massachusetts Institute of Technology**
+
 Postdoc in Brain & Cognitive Sciences | 2016-2020
+:::
 
-University of Illinois, Urbana-Champaign <br />
+::: {.education-card}
+**University of Illinois, Urbana-Champaign**
+
 PhD in Cognitive Psychology | 2010-2016
+:::
 
-Northwestern University <br />
+::: {.education-card}
+**Northwestern University**
+
 B.A in Cognitive Science | 2006-2010
+:::
 
- 
+::::

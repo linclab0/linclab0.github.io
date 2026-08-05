@@ -1,23 +1,55 @@
 ---
 title: "Language, Interaction, & Cognition Lab"
-subtitle: "Department of Cognitive & Information Sciences @ UC Merced"
-about:
-  template: trestles
-  image: img/icon-512.png
+toc: false
+page-layout: full
 ---
 
-How do we decode another person's thoughts
-and intentions from a sequence of sounds (speech) or shapes (letters,
-signs)? And how do we choose what to say next to convey our thoughts to another person?
- The LInC Lab is a group of cognitive scientists tackling these questions using behavioral, neuroscientific, and computational tools. 
+::: {.home-shell}
+
+::: {.home-hero}
+
+::: {.home-logo-wrap}
+![](img/iconf-512.png){.home-logo fig-alt="LInC Lab logo"}
+:::
+
+::: {.home-hero-copy}
+<p class="home-kicker">University of California, Merced</p>
+
+# Language, Interaction, & Cognition Lab
+
+<p class="home-subtitle">Department of Cognitive & Information Sciences</p>
+:::
+
+:::
+
+::: {.home-content-grid}
+
+::: {.home-about}
+How do we decode another person's thoughts and intentions from a sequence of
+sounds (speech) or shapes (letters, signs)? And how do we choose what to say
+next to transfer our thoughts to another person's mind? The LInC Lab is a group of
+cognitive scientists tackling these questions using behavioral,
+neuroscientific, and computational tools.
 
 To get more information about ongoing projects, please visit the
-[research](research.qmd) page or check individual [lab
-members'](people.qmd) pages for a full list of their publications. If
-you would like to participate in the lab's research or are interested in
-joining the lab, please [get in touch](contact.qmd).
+[research](research.qmd) page or check individual [lab members'](people.qmd)
+pages for a full list of their publications. If you would like to participate
+in the lab's research or are interested in joining the lab, please [get in
+touch](contact.qmd).
 
+:::
+
+::: {.news-card}
 ## News
 
-**May 2026** — Congratulations to Ellis Cain and Tevin Williams, who have
-completed their PhDs and are off to postdoc and faculty jobs!
+::: {.news-item}
+<span class="news-date">May 2026</span>
+
+Congratulations to **Ellis Cain** and **Tevin Williams**, who have completed their
+PhDs and are off to postdoc and faculty jobs!
+:::
+:::
+
+:::
+
+:::
